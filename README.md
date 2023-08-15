@@ -1,3 +1,6 @@
+#Go live 
+this website is running on this server. Please click on this [let's go](https://simple-redux-blog.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
